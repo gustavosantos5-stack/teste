@@ -1,1 +1,1 @@
-# teste
+Aprendendo a gerenciar o repositório.
